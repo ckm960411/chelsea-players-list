@@ -1,19 +1,14 @@
 @import './mixin';
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
 
 /* Color */
 $color--blue: #001487;
 $color--white: #fff;
-$color-light-white: #eee;
-$color-dark-white: #bdbdbd;
 $color-pink: #fe918d;
 $color-dark-pink: #ff6863;
 $color-dark-grey: #4d4d4d;
 $color-grey: #616161;
 $color-light-grey: #7c7979;
-$color-navy: #1848a0;
-$color-blue: #73aace;
-$color-yellow: #fff7d1;
-$color-orange: #feb546;
 $color-black: #000;
 
 /* Font size */
@@ -36,6 +31,7 @@ $animation-duration: .3s;
 
 body {
   background-color: $color--blue;
+  font-family: 'Roboto', sans-serif;
 }
 button {
   background-color: transparent;
