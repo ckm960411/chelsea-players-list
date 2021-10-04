@@ -1,0 +1,188 @@
+{
+  "players": [
+    {
+      "number": "1",
+      "name": "Kepa Arrizabalaga",
+      "nameTag": "Kepa-Arrizabalaga",
+      "position": "Goalkeeper",
+      "birthDate": "October 3, 1994",
+      "brithPlace": "Spain"
+    },
+    {
+      "number": "2",
+      "name": "Antonio Rudiger",
+      "nameTag": "Antonio-Rudiger",
+      "position": "Defender",
+      "birthDate": "March 3, 1993",
+      "brithPlace": "Germany"
+    },
+    {
+      "number": "3",
+      "name": "Marcos Alonso",
+      "nameTag": "Marcos-Alonso",
+      "position": "Defender",
+      "birthDate": "December 28, 1990",
+      "brithPlace": "Spain"
+    },
+    {
+      "number": "4",
+      "name": "Andreas Christensen",
+      "nameTag": "Andreas-Christensen",
+      "position": "Defender",
+      "birthDate": "April 10, 1996",
+      "brithPlace": "Denmark"
+    },
+    {
+      "number": "5",
+      "name": "Jorginho",
+      "nameTag": "Jorginho",
+      "position": "Midfielder",
+      "birthDate": "December 20, 1991",
+      "brithPlace": "Brazil"
+    },
+    {
+      "number": "6",
+      "name": "Thiago Silva",
+      "nameTag": "Thiago-Silva",
+      "position": "Defender",
+      "birthDate": "September 22, 1984",
+      "brithPlace": "Brazil"
+    },
+    {
+      "number": "7",
+      "name": "Ngolo Kante",
+      "nameTag": "Ngolo-Kante",
+      "position": "Midfielder",
+      "birthDate": "March 29, 1991",
+      "brithPlace": "France"
+    },
+    {
+      "number": "8",
+      "name": "Mateo Kovacic",
+      "nameTag": "Mateo-Kovacic",
+      "position": "Midfielder",
+      "birthDate": "May 6, 1994",
+      "brithPlace": "Austria"
+    },
+    {
+      "number": "9",
+      "name": "Romelu Lukaku",
+      "nameTag": "Romelu-Lukaku",
+      "position": "Forward",
+      "birthDate": "May 13, 1993",
+      "brithPlace": "Belgium"
+    },
+    {
+      "number": "10",
+      "name": "Christian Pulisic",
+      "nameTag": "Christian-Pulisic",
+      "position": "Forward",
+      "birthDate": "September 18, 1998",
+      "brithPlace": "United States"
+    },
+    {
+      "number": "11",
+      "name": "Timo Werner",
+      "nameTag": "Timo-Werner",
+      "position": "Forward",
+      "birthDate": "March 6, 1996",
+      "brithPlace": "Germany"
+    },
+    {
+      "number": "12",
+      "name": "Ruben Loftus-Cheek",
+      "nameTag": "Ruben-Loftus-Cheek",
+      "position": "Midfielder",
+      "birthDate": "January 23, 1996",
+      "brithPlace": "England"
+    },
+    {
+      "number": "14",
+      "name": "Trevoh Chalobah",
+      "nameTag": "Trevoh-Chalobah",
+      "position": "Defender",
+      "birthDate": "July 5, 1999",
+      "brithPlace": "Sierra Leone"
+    },
+    {
+      "number": "16",
+      "name": "Edouard Mendy",
+      "nameTag": "Edouard-Mendy",
+      "position": "Goalkeeper",
+      "birthDate": "March 1, 1992",
+      "brithPlace": "France"
+    },
+    {
+      "number": "17",
+      "name": "Saul Niguez",
+      "nameTag": "Saul-Niguez",
+      "position": "Midfielder",
+      "birthDate": "November 21, 1994",
+      "brithPlace": "Spain"
+    },
+    {
+      "number": "18",
+      "name": "Ross Barkley",
+      "nameTag": "Ross-Barkley",
+      "position": "Midfielder",
+      "birthDate": "December 5, 1993",
+      "brithPlace": "England"
+    },
+    {
+      "number": "19",
+      "name": "Mason Mount",
+      "nameTag": "Mason-Mount",
+      "position": "Midfielder",
+      "birthDate": "January 10, 1999",
+      "brithPlace": "England"
+    },
+    {
+      "number": "20",
+      "name": "Callum Hudson-Odoi",
+      "nameTag": "Callum-Hudson-Odoi",
+      "position": "Forward",
+      "birthDate": "November 7, 2000",
+      "brithPlace": "England"
+    },
+    {
+      "number": "21",
+      "name": "Ben Chilwell",
+      "nameTag": "Ben-Chilwell",
+      "position": "Defender",
+      "birthDate": "December 21, 1996",
+      "brithPlace": "England"
+    },
+    {
+      "number": "22",
+      "name": "Hakim Ziyech",
+      "nameTag": "Hakim-Ziyech",
+      "position": "Forward",
+      "birthDate": "March 19, 1993",
+      "brithPlace": "Netherlands"
+    },
+    {
+      "number": "24",
+      "name": "Reece James",
+      "nameTag": "Reece-James",
+      "position": "Defender",
+      "birthDate": "December 8, 1999",
+      "brithPlace": "England"
+    },
+    {
+      "number": "28",
+      "name": "Cesar Azpilicueta",
+      "nameTag": "Cesar-Azpilicueta",
+      "position": "Defender",
+      "birthDate": "August 28, 1989",
+      "brithPlace": "Spain"
+    },
+    {
+      "number": "29",
+      "name": "Kai Havertz",
+      "nameTag": "Kai-Havertz",
+      "position": "Forward",
+      "birthDate": "June 11, 1999",
+      "brithPlace": "Germany"
+    }
+  ]
+}
