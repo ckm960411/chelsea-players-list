@@ -95,4 +95,5 @@ logo.addEventListener('click', () => {
   const playerEls = document.querySelectorAll('.player')
   playerEls.forEach(playerEl => playerEl.classList.remove('invisible'))
   buttonEls.forEach(btnEl => btnEl.classList.remove('active'))
+  closeDetail()
 })
